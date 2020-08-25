@@ -49,8 +49,8 @@ header h1 {
   text-align: center;
   margin: 0 auto;
   padding: 0 auto;
-  font-family: "Lato"
-  font-weight: 900
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
 }
 .small {
   margin-top: 1em;
