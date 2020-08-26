@@ -18,7 +18,6 @@ footer {
 /*-- Main Menu Styles--*/
 nav ul {
   width: 900px;
-  align-items: center;
   display: flex;
   justify-content: space-between;
   list-style: none;
@@ -90,6 +89,7 @@ article figcaption {
   font-size: 14px;
 }
 .pagination {
+  width: 600px;
   display: flex;
   justify-content: space-between;
   margin-top: 2em;
