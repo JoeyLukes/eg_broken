@@ -17,7 +17,7 @@ footer {
 }
 /*-- Main Menu Styles--*/
 nav ul {
-  width: 96%;
+  width: 800px;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
