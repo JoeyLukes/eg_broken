@@ -89,7 +89,7 @@ article figcaption {
   font-size: 14px;
 }
 .pagination {
-  width: 600px;
+  width: 400px;
   display: flex;
   justify-content: space-between;
   margin-top: 2em;
