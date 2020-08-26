@@ -17,6 +17,7 @@ footer {
 }
 /*-- Main Menu Styles--*/
 nav ul {
+  max-width: 600px
   display: flex;
   justify-content: space-between;
   list-style: none;
