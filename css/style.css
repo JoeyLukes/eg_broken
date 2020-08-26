@@ -70,11 +70,11 @@ article figure {
   margin: 0 0 1.25em 1.25em;
 }
 article figcaption {
-}
-.pagination {
   font-family: sans-serif;
   font-weight: lighter;
   font-size: 10px;
+}
+.pagination {
   margin-top: 2em;
   margin-bottom: 2em;
   width: 96%;
