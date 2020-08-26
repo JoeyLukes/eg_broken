@@ -8,10 +8,6 @@ p {
   margin-bottom: .67em;
 }
 nav, footer {
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
-  justify-content: space-between;
   background-color: #444;
 }
 footer {
