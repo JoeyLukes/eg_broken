@@ -17,9 +17,8 @@ footer {
 }
 /*-- Main Menu Styles--*/
 nav ul {
-  width: 800px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   flex-wrap: wrap;
   list-style: none;
   padding: 1em;
