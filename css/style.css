@@ -28,11 +28,11 @@ nav a:link, nav a:visited {
   text-decoration: none;
 }
 nav a:hover, nav a:active  {
-  color: #F0F0F0;
+  color: #341700;
   text-decoration: underline;
 }
 nav a.active {
-  color: #F0F0F0;
+  color: #341700;
 }
 /*-- Hero Unit Styles--*/
 header {
